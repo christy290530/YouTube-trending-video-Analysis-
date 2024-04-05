@@ -1,5 +1,4 @@
 # YouTube-trending-video-Analysis-
-# YouTube Video Analytics
 
 ## Overview
 This Python script analyzes YouTube video data using various visualization techniques. It utilizes libraries such as Pandas, Matplotlib, Seaborn, and WordCloud to visualize trends and patterns in the data.
